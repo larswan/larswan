@@ -36,7 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" **alt="unity" width="40" height="40"/>
 </div>
- </div>
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=larswan&theme=monokai&border_radius=4.6)](https://git.io/streak-stats)
 
