@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <image src="https://media.giphy.com/media/xvDnPckdEjDZxBsuBM/giphy.gif" width="200"></image>
+  <image src="[https://media.giphy.com/media/xvDnPckdEjDZxBsuBM/giphy.gif](https://giphy.com/embed/5QYgY1Vl5l6scum5oz)" width="200"></image>
+  <p><a href="https://giphy.com/gifs/natgeowild-nat-geo-wild-national-geographic-trumpeter-swan-5QYgY1Vl5l6scum5oz">via GIPHY</a></p>
   <div id="badges">
   <a href="https://www.linkedin.com/in/larson-collier/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,7 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=MohamedMuflahi&style=flat-square&color=blue" alt=""/>
   <h1>
   Hi! I'm Larson Collier, welcome to my GitHub!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
