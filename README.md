@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://giphy.com/embed/5QYgY1Vl5l6scum5oz" width="480" height="270" />
+<img href="[https://giphy.com/embed/5QYgY1Vl5l6scum5oz](https://giphy.com/gifs/natgeowild-nat-geo-wild-national-geographic-trumpeter-swan-5QYgY1Vl5l6scum5oz)" width="480" height="270" />
   <div id="badges">
   <a href="https://www.linkedin.com/in/larson-collier/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
