@@ -18,7 +18,7 @@ Full Stack Software Engineer/Developer | Columbia Grad | Multi-Instrumentalist a
 
 - :zap: I love all things music! Check out my VINNI repo below for all of my musical works :)
 
-- :mailbox: Where to reach me: collierlarson@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Larson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larswan/)
+- :mailbox: Where to reach me: collierlarson@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Larson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larson-collier)
 
 :hammer_and_wrench: Languages and Tools :
 <div align="center">
