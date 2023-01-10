@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <image src="https://media.giphy.com/media/xvDnPckdEjDZxBsuBM/giphy.gif" width="200"></image>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/larswan/">
+  <a href="https://www.linkedin.com/in/larson-collier/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
