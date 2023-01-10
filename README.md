@@ -15,8 +15,7 @@ Reach me at collierlarson@gmail.com or [![Linkedin Badge](https://img.shields.io
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkl2109&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vkl2109&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=larswan&theme=monokai)](https://git.io/streak-stats)
 
 </div>
 
