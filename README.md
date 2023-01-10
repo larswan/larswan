@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <image src="https://media0.giphy.com/media/XQGlctNfJ5UeQ/giphy.gif?cid=ecf05e47a307ep2jnk6m222rqq1qrvwvt7s0n29hazi3mqzk&rid=giphy.gif&ct=g" width="200"></image>
-  
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/larson-collier/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
   <h1>
   Hi! I'm Larson Collier, welcome to my GitHub!
 </h1>
@@ -9,11 +13,7 @@
 <h3 align="center">Full Stack Software Developer | UGA Alumn | Multi-Instrumentalist and Animator</h3>
 NYC based front end developer, currently open to new positions.
 Reach me at collierlarson@gmail.com or 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/larson-collier/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 
 <div align="center">
 
