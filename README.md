@@ -12,12 +12,9 @@
 </h1>
 </div>
 :man_technologist: About Me :
-Full Stack Software Engineer/Developer | Columbia Grad | Multi-Instrumentalist and Composer
+Full Stack Software Engineer/Developer | University of Georgia Alumn | Multi-Instrumentalist and Animator
 
-- :telescope: Highly motivated, perpetually curious explorer looking to build better products as a junior software developer/apprentice in NYC!!
-
-- :zap: I love all things music! Check out my VINNI repo below for all of my musical works :)
-
+- :telescope: Adaptable and creative individual looking to build better products as a junior software developer in NYC.
 - :mailbox: Where to reach me: collierlarson@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Larson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larson-collier)
 
 :hammer_and_wrench: Languages and Tools :
@@ -32,8 +29,6 @@ Full Stack Software Engineer/Developer | Columbia Grad | Multi-Instrumentalist a
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" **alt="Rails" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" **alt="unity" width="40" height="40"/>
 </div>
 <div align="center">
@@ -43,7 +38,5 @@ Full Stack Software Engineer/Developer | Columbia Grad | Multi-Instrumentalist a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkl2109&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-:writing_hand: Blog Posts :
-<a href="https://medium.com/@vkl2109/async-await-using-fetch-6bee184b71a0">Async/Await vs Fetch/Then</a>
 
 </div>
