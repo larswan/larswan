@@ -16,9 +16,6 @@
 - :telescope: Adaptable and creative individual looking to build better products as a junior software developer in NYC.
 - :mailbox: Where to reach me: collierlarson@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Larson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larson-collier)
 
-<div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=larswan&theme=monokai&border_radius=4.6)](https://git.io/streak-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larswan&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -36,5 +33,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" **alt="Rails" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" **alt="unity" width="40" height="40"/>
 </div>
-  </div>
+ </div>
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=larswan&theme=monokai&border_radius=4.6)](https://git.io/streak-stats)
+
+</div>
 
