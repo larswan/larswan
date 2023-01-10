@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <image src="https://media.giphy.com/media/xvDnPckdEjDZxBsuBM/giphy.gif" width="200"></image>
+  <image src="https://media0.giphy.com/media/XQGlctNfJ5UeQ/giphy.gif?cid=ecf05e47a307ep2jnk6m222rqq1qrvwvt7s0n29hazi3mqzk&rid=giphy.gif&ct=g" width="200"></image>
   <div id="badges">
   <a href="https://www.linkedin.com/in/larson-collier/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
