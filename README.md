@@ -7,8 +7,7 @@
 </div>
 
 <h3 align="center">Full Stack Software Developer | UGA Alumn | Multi-Instrumentalist and Animator</h3>
-Adaptable and creative individual looking to build better products as a junior software developer in NYC.
-
+NYC based front end developer, currently open to new positions.
 Reach me at collierlarson@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Larson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larson-collier)
 
 <div align="center">
