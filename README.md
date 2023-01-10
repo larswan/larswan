@@ -16,9 +16,10 @@
 - :telescope: Adaptable and creative individual looking to build better products as a junior software developer in NYC.
 - :mailbox: Where to reach me: collierlarson@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Larson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larson-collier)
 
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larswan&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
+  
 <div align="center">
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
