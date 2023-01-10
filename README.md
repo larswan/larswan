@@ -12,17 +12,18 @@
 </h1>
 </div>
 
-<h3 align="center">Full Stack Software Engineer/Developer | University of Georgia Alumn | Multi-Instrumentalist and Animator</h3>
+<h3 align="center">Full Stack Software Developer | UGA Alumn | Multi-Instrumentalist and Animator</h3>
 
 - :telescope: Adaptable and creative individual looking to build better products as a junior software developer in NYC.
 - :mailbox: Where to reach me: collierlarson@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Larson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larson-collier)
 
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=larswan&theme=monokai&border_radius=4.6)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larswan&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -35,6 +36,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" **alt="Rails" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" **alt="unity" width="40" height="40"/>
 </div>
-<div align="center">
 
-</div>
