@@ -19,12 +19,12 @@
 
 <div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=larswan&theme=monokai&border_radius=4.6)](https://git.io/streak-stats)
-<div/>
-<div align="center">
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larswan&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<div/>
 
 <div align="center">
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -36,6 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" **alt="Rails" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" **alt="unity" width="40" height="40"/>
-  </div>
+</div>
   </div>
 
