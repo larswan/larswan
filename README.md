@@ -17,16 +17,14 @@ Adaptable and creative individual looking to build better products as a junior s
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vkl2109&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkl2109&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vkl2109&theme=dark&background=000000)](https://git.io/streak-stats)
 
-:writing_hand: Blog Posts :
-<a href="https://medium.com/@vkl2109/async-await-using-fetch-6bee184b71a0">Async/Await vs Fetch/Then</a>
 
 </div>
 
-:hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
