@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img href="https://giphy.com/gifs/natgeowild-nat-geo-wild-national-geographic-trumpeter-swan-5QYgY1Vl5l6scum5oz" width="480" height="270" />
+  <image src="https://media.giphy.com/media/xvDnPckdEjDZxBsuBM/giphy.gif" width="200"></image>
   <div id="badges">
   <a href="https://www.linkedin.com/in/larson-collier/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,18 +10,13 @@
   Hi! I'm Larson Collier, welcome to my GitHub!
 </h1>
 </div>
-
 <h3 align="center">Full Stack Software Developer | UGA Alumn | Multi-Instrumentalist and Animator</h3>
+Adaptable and creative individual looking to build better products as a junior software developer in NYC.
 
-- :telescope: Adaptable and creative individual looking to build better products as a junior software developer in NYC.
-- :mailbox: Where to reach me: collierlarson@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Larson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larson-collier)
+:mailbox: Where to reach me: collierlarson@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Larson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larson-collier)
 
+:hammer_and_wrench: Languages and Tools :
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larswan&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-  
-<div align="center">
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -36,8 +31,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" **alt="unity" width="40" height="40"/>
 </div>
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=larswan&theme=monokai&border_radius=4.6)](https://git.io/streak-stats)
+<div align="center">
+:fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vkl2109&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkl2109&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+:writing_hand: Blog Posts :
+<a href="https://medium.com/@vkl2109/async-await-using-fetch-6bee184b71a0">Async/Await vs Fetch/Then</a>
 
 </div>
-
