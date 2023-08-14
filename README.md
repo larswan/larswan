@@ -7,9 +7,7 @@
 </div>
 
 <h3 align="center">Full Stack Software Developer | UGA Alumn | Multi-Instrumentalist and Animator</h3>
-I'm a front-end developer based in NYC, currently open to new positions. Through my background in art, music and animation I've developed skills in creative collaboration, project managment and communication. You can find demos of previous web-applications as well as examples of my art on my <a href="http://www.larsoncollier.com/"><b>portfolio</b></a>. 
-
-Reach me at collierlarson@gmail.com or LinkedIn.
+I'm a front-end developer based in NYC, currently open to new positions. Through my background in art, music and animation I've developed skills in creative collaboration, project managment and communication. <br></br>You can find demos of previous web-applications as well as examples of my art on my <a href="http://www.larsoncollier.com/"><b>portfolio</b></a>. Feel free to <a href="mailto:collierlarson@gmail.com"><b>e-mail</b></a> me collierlarson@gmail.com or reach out on <a href="https://www.linkedin.com/in/larson-collier/"><b>LinkedIn</b></a>!
 <br></br>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/larson-collier/">
