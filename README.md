@@ -2,12 +2,12 @@
   <image src="https://media0.giphy.com/media/XQGlctNfJ5UeQ/giphy.gif?cid=ecf05e47a307ep2jnk6m222rqq1qrvwvt7s0n29hazi3mqzk&rid=giphy.gif&ct=g" width="200"></image>
   
   <h1>
-  Hi! I'm Larson Collier, welcome to my GitHub!
+  Hi there, I'm Larson. Welcome to my GitHub!
 </h1>
 </div>
 
 <h3 align="center">Full Stack Software Developer | UGA Alumn | Multi-Instrumentalist and Animator</h3>
-NYC based front end developer, currently open to new positions.
+I'm a front-end developer based in NYC, currently open to new positions. Through my background in art, music and animation I've developed skills in creative collaboration, project managment and communication. You can find demos of previous web-applications as well as examples of my art on my <a href="http://www.larsoncollier.com/"><b>portfolio</b></a>. 
 
 Reach me at collierlarson@gmail.com or LinkedIn.
 <br></br>
