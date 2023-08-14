@@ -2,7 +2,7 @@
   <image src="https://media0.giphy.com/media/XQGlctNfJ5UeQ/giphy.gif?cid=ecf05e47a307ep2jnk6m222rqq1qrvwvt7s0n29hazi3mqzk&rid=giphy.gif&ct=g" width="200"></image>
   
   <h1>
-  Hi there, I'm Larson. Welcome to my GitHub!
+  Hi, I'm Larson. Welcome to my GitHub.
 </h1>
 </div>
 
