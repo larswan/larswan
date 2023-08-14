@@ -10,6 +10,7 @@
 NYC based front end developer, currently open to new positions.
 
 Reach me at collierlarson@gmail.com or LinkedIn.
+<br></br>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/larson-collier/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
