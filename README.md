@@ -1,9 +1,8 @@
-<div id="header" align="center">
-  <image src="https://media0.giphy.com/media/XQGlctNfJ5UeQ/giphy.gif?cid=ecf05e47a307ep2jnk6m222rqq1qrvwvt7s0n29hazi3mqzk&rid=giphy.gif&ct=g" width="200"></image>
-  
-  <h1>
-  Hi, I'm Larson. Welcome to my GitHub.
-</h1>
+<div id="header" align="center" style="border-radius: 20px;">
+  <img src="https://media0.giphy.com/media/XQGlctNfJ5UeQ/giphy.gif?cid=ecf05e47a307ep2jnk6m222rqq1qrvwvt7s0n29hazi3mqzk&rid=giphy.gif&ct=g" width="200" style="border-radius: 20px;">
+  <h1 style="text-align: center;">
+    Hi, I'm Larson. Welcome to my GitHub.
+  </h1>
 </div>
 
 <h3 align="center">Full Stack Software Developer | UGA Alumn | Multi-Instrumentalist and Animator</h3>
