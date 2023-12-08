@@ -26,9 +26,6 @@ I'm a front-end developer based in NYC, currently open to new positions. Through
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larswan&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=larswan&theme=monokai)](https://git.io/streak-stats)
-
 </div>
 
 <div align="center">
