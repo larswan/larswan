@@ -1,11 +1,11 @@
 <div id="header" align="center" style="border-radius: 20px;">
   <img src="https://media0.giphy.com/media/XQGlctNfJ5UeQ/giphy.gif?cid=ecf05e47a307ep2jnk6m222rqq1qrvwvt7s0n29hazi3mqzk&rid=giphy.gif&ct=g" width="200" style="border-radius: 20px;">
   <h1 style="text-align: center;">
-    Hello!
+    Hi!
   </h1>
 </div>
 
-<h3 align="center">Front End Software Developer | UGA Alumn | Multi-Instrumentalist and Animator</h3>
+<h3 align="center">Front End Web Developer | UGA Alumn | Multi-Instrumentalist and Animator</h3>
 I'm a front-end developer based in NYC, currently open to new positions. Through my background in art, music and animation I've developed skills in creative collaboration, project managment and communication. <br></br>You can find demos of previous web-applications as well as examples of my art on my <a href="http://www.larsoncollier.com/"><b>portfolio</b></a>. Feel free to <a href="mailto:collierlarson@gmail.com"><b>e-mail</b></a> me or reach out on <a href="https://www.linkedin.com/in/larson-collier/"><b>LinkedIn</b></a>!
 <br></br>
 <div align="center">
