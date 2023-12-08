@@ -17,11 +17,7 @@ Hi, my name is Larson, I'm a front-end web developer based in NYC, currently ope
   </a>
 </div>
 
-
 <div align="center">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larswan&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
